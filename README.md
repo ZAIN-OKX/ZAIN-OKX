@@ -1,3 +1,24 @@
+
+got clone https://github.com/ZAIN-OKX/ZAIN-OKX
+cd ZAIN-OKX
+python OKX.py
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
 - 👋 Hi, I’m @ZAIN-OKX
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
