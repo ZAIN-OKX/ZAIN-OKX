@@ -1,8 +1,6 @@
-
-got clone https://github.com/ZAIN-OKX/ZAIN-OKX
+git clone https://github.com/ZAIN-OKX/ZAIN-OKX  
 cd ZAIN-OKX
 python OKX.py
-
 
 
 
